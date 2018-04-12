@@ -3,7 +3,6 @@ package no.hiof.jornhl.robocode.BackUpSimple;
 
 import robocode.*;
 import robocode.Robot;
-
 import java.awt.*;
 import java.util.Random;
 
