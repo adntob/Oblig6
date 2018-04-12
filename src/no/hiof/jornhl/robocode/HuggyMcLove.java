@@ -38,6 +38,7 @@ public class HuggyMcLove extends Robot {
      * <i>P.S. Aiming is for suckers.</i>
      */
     public void onScannedRobot(ScannedRobotEvent e) {
+        out.println("LET ME LOVE YOU");
         if (e.getDistance() < 200) {
             fire(2);
         } else {
